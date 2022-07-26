@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:Schedule xmlns:myns = "http://www.itmo.ru/xml/lessons">
+	<myns:Subject id="a" xmlns:book="http://www.itmo.ru/xml/books">
+		<myns:TeacherName> </myns:TeacherName>
+		<myns:QuantityHours> </myns:QuantityHours>
+		<myns:DateOfStart> </myns:DateOfStart>
+		<myns:DateOfEnd> </myns:DateOfEnd>
+		<myns:TypeKnowledgeControl> </myns:TypeKnowledgeControl>
+		<book:BookId> </book:BookId>
+	</myns:Subject>
+	<myns:Subject id = "b" xmlns:book="http://www.itmo.ru/xml/books">
+		<myns:TeacherName> </myns:TeacherName>
+		<myns:QuantityHours> </myns:QuantityHours>
+		<myns:DateOfStart> </myns:DateOfStart>
+		<myns:DateOfEnd> </myns:DateOfEnd>
+		<myns:TypeKnowledgeControl> </myns:TypeKnowledgeControl>
+		<book:BookId> </book:BookId>
+	</myns:Subject>
+	<LibreryList xmlns:book ="http://www.itmo.ru/xml/books">
+		<BookId id = "a">
+			<Author> </Author>
+			<BookName> </BookName>
+			<DatePublication> </DatePublication>
+		</BookId>
+		<BookId id = "b">
+			<Author> </Author>
+			<BookName> </BookName>
+			<DatePublication> </DatePublication>
+		</BookId>
+	</LibreryList>
+</myns:Schedule>

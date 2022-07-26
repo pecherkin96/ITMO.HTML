@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<schedule>
+	<subject id="a">
+		<TeacherName> </TeacherName>
+		<QuantityHours> </QuantityHours>
+		<DateOfStart> </DateOfStart>
+		<DateOfEnd> </DateOfEnd>
+		<TypeKnowledgeControl> </TypeKnowledgeControl>
+	</subject>
+	<subject id = "b">
+		<TeacherName> </TeacherName>
+		<QuantityHours> </QuantityHours>
+		<DateOfStart> </DateOfStart>
+		<DateOfEnd> </DateOfEnd>
+		<TypeKnowledgeControl> </TypeKnowledgeControl>
+	</subject>
+</schedule>
